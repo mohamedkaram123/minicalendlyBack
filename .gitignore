@@ -1,7 +1,7 @@
 /node_modules
 /public/build
 /public/hot
-/public/storage/app/google-calendar
+/public/storage/app/
 /storage/*.key
 /vendor
 .env
